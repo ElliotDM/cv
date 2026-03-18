@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Elliot Durán Macedo
+  headline: Ingeniero en Computación
+  location: Estado de México, México
+  email: elliotd70@outlook.com
+  phone: +52 5548154693
+  social_networks:
+    - network: LinkedIn
+      username: elliotdm70
+  custom_connections:
+  sections:
+    Resumen Profesional:
+      - Ingeniero en Computación recién titulado, con un fuerte interés en la programación, el análisis de datos y las finanzas. Busco integrarme a un equipo dinámico donde pueda aplicar mis conocimientos y aportar valor a través del análisis de datos.
+    Habilidades:
+      - label: Idiomas
+        details: Inglés C1
+      - label: Lenguajes
+        details: Python avanzado, SQL intermedio, JavaScript básico, VBA básico
+      - label: Visualización
+        details: Power BI, Looker, Matplotlib, Seaborn
+      - label: Herramientas
+        details: Excel intermedio, PowerBI básico, Git básico Linux básico, Docker básico
+      - label: Habilidades Blandas
+        details: Comunicación efectiva, excelente organización, proactivo, autodidacta
+    Educación:
+      - institution: Universidad Nacional Autónoma de México
+        area: Ingeniería en Computación
+        degree: Lic.
+        date:
+        start_date: 2018-08
+        end_date: 2024-11
+    Experiencia:
+      - company: Facultad de Ingeniería
+        position: Ayudante de profesor
+        start_date: 2022-09
+        end_date: 2023-03
+        summary: Me desempeñé en los labores de calificar de tareas, elaborar reportes en Excel, manejar cuentas de correo, y asesorar alumnos en temas del curso.
+    Proyectos:
+      - name: '[inf_bancaria](https://github.com/ElliotDM/inf_bancaria)'
+        date:
+        start_date: 2025-10
+        end_date: 2025-11
+        summary: Realicé un análisis descriptivo de los datos de un banco para ayudar a evaluar el riesgo crediticio de manera más precisa en nuevas solicitudes. 
+        highlights:
+          - Python, Jupyter, Pandas, Numpy, Matplotlib, Seaborn
+      - name: 'Servidor NFS'
+        date:
+        start_date: 2024-07
+        end_date: 2024-07
+        summary: Implementé un servidor NFS en Linux utilizando una red de contenedores Docker.
+        highlights:
+          - Linux, Docker
+      - name: '[Proyecto-CGIH02](https://github.com/ElliotDM/Proyecto-CGIH02)'
+        date:
+        start_date: 2023-10
+        end_date: 2023-11
+        summary: Lideré un proyecto de programación de un ambiente 3D con temática de videojuegos.
+        highlights:
+          - C++, OpenGL, Blender, GIMP
+      - name: Compilador-MC68HC11
+        date:
+        start_date: 2020-03
+        end_date: 2020-05
+        summary: Lideré un proyecto de programación para diseñar un compilador para el microprocesador MC68HC11.
+        highlights:
+          - Python, HTML, Assembly
+    Certificados:
+      - bullet: Diplomado en Desarrollo de habilidades directivas (2025)
+      - bullet: Applied Data Science with Python (2025)
+design:
+  theme: classic
+locale:
+  language: spanish
+settings:
+  current_date: '2026-03-01'
+  render_command:
+    design:
+    locale:
+    typst_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.md
+    html_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.html
+    png_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []

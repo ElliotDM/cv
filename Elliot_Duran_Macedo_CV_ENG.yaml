@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Elliot Durán Macedo
+  headline: Software Engineer 
+  location: Estado de México, México
+  email: elliotd70@outlook.com
+  phone: +52 5548154693
+  social_networks:
+    - network: LinkedIn
+      username: elliotdm70
+  custom_connections:
+  sections:
+    Summary:
+      - I am a recent software engineering graduate with a strong interest in programming, data analysis, and finance. I am looking to join a dynamic team where I can apply my knowledge and add value through data analysis.
+    Skills:
+      - label: Languages
+        details: English (fluent), Spanish (native)
+      - label: Programming
+        details: Python (advance), SQL (intermediate), JavaScript (basic), VBA (basic)
+      - label: Software
+        details: Excel (intermediate), PowerBI (basic)
+      - label: Infrastructure
+        details: Linux (basic), Docker (basic), Git (basic)
+    Education:
+      - institution: Universidad Nacional Autónoma de México
+        area: Computer Science
+        degree: BS
+        date:
+        start_date: 2018-08
+        end_date: 2024-11
+    Experience:
+      - company: Facultad de Ingeniería
+        position: Assistant professor
+        start_date: 2022-09
+        end_date: 2023-03
+        summary: My responsibilities included grading assignments, creating reports in Excel, managing email accounts, and advising students on course-related matters.
+    Projects:
+      - name: '[inf_bancaria](https://github.com/ElliotDM/inf_bancaria)'
+        date:
+        start_date: 2025-10
+        end_date: 2025-11
+        summary: I conducted a descriptive analysis of a bank's data to help assess credit risk more accurately for new loan applications.
+        highlights:
+          - Python, Jupyter, Pandas, Numpy, Matplotlib, Seaborn
+      - name: 'NFS Server'
+        date:
+        start_date: 2024-07
+        end_date: 2024-07
+        summary: I set up an NFS server on Linux using a Docker container network.
+      - name: '[Proyecto-CGIH02](https://github.com/ElliotDM/Proyecto-CGIH02)'
+        date:
+        start_date: 2023-10
+        end_date: 2023-11
+        summary: I led a project to develop a 3D environment with a video game theme.
+        highlights:
+          - C++, OpenGL, Blender, GIMP
+      - name: MC68HC11 Compiler
+        date:
+        start_date: 2020-03
+        end_date: 2020-05
+        summary: I led a programming project to design a compiler for the MC68HC11 microprocessor.
+        highlights:
+          - Python, HTML, Assembly
+    Certificates:
+      - bullet: Management Skills Development (2025)
+      - bullet: Applied Data Science with Python (2025)
+design:
+  theme: classic
+locale:
+  language: english
+settings:
+  current_date: '2026-03-01'
+  render_command:
+    design:
+    locale:
+    typst_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: rendercv_output\NAME_IN_SNAKE_CASE_CV_ENG.pdf
+    markdown_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.md
+    html_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.html
+    png_path: rendercv_output\NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
