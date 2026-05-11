@@ -92,6 +92,7 @@
   [#link("mailto:elliotd70@outlook.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[elliotd70\@outlook.com]]],
   [#link("tel:+52-55-4815-4693", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[55 4815 4693]]],
   [#link("https://linkedin.com/in/elliotdm70", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[elliotdm70]]],
+  [#link("https://elliotdm.github.io/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[elliotdm.github.io]]],
 )
 
 
@@ -101,15 +102,13 @@ Ingeniero en Computación recién titulado, con un fuerte interés en la program
 
 == Habilidades
 
-#strong[Idiomas:] Inglés C1
+#strong[Idiomas:] Inglés B1
 
-#strong[Lenguajes:] Python avanzado, SQL intermedio, JavaScript básico, VBA básico
+#strong[Lenguajes:] Python (avanzado), SQL (intermedio), VBA (básico)
 
-#strong[Visualización:] Power BI, Looker, Matplotlib, Seaborn
+#strong[Visualización:] Excel (intermedio), Power BI (básico), Matplotlib, Seaborn
 
-#strong[Herramientas:] Excel intermedio, PowerBI básico, Git básico Linux básico, Docker básico
-
-#strong[Habilidades Blandas:] Comunicación efectiva, excelente organización, proactivo, autodidacta
+#strong[Habilidades Blandas:] Comunicación efectiva, Pensamiento crítico, Orientación a resultados, Adaptabilidad estratégica, Autogestión, Mentalidad de aprendizaje continuo
 
 == Educación
 
@@ -146,11 +145,22 @@ Ingeniero en Computación recién titulado, con un fuerte interés en la program
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/ElliotDM/inf_bancaria")[inf\_bancaria]]
+    #strong[#link("https://github.com/ElliotDM/asos")[Análisis de la tienda ASOS]]
 
-    #summary[Realicé un análisis descriptivo de los datos de un banco para ayudar a evaluar el riesgo crediticio de manera más precisa en nuevas solicitudes.]
+    #summary[Analicé más de 30 mil datos de una tienda de ropa con Python para identificar marcas con poca liquidez]
 
-    - Python, Jupyter, Pandas, Numpy, Matplotlib, Seaborn
+  ],
+  [
+    Mar 2026 – Abr 2026
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[#link("https://github.com/ElliotDM/inf_bancaria")[Análisis de información bancaria]]
+
+    #summary[Realicé un análisis descriptivo de los datos de cuentas de un banco para determinar el riesgo crediticio de nuevos solicitantes.]
 
   ],
   [
@@ -161,45 +171,13 @@ Ingeniero en Computación recién titulado, con un fuerte interés en la program
 
 #regular-entry(
   [
-    #strong[Servidor NFS]
+    #strong[#link("https://github.com/ElliotDM/autos")[Predicción del costo de venta de automóviles usados]]
 
-    #summary[Implementé un servidor NFS en Linux utilizando una red de contenedores Docker.]
-
-    - Linux, Docker
+    #summary[Implementé un modelo de machine learning para identificar los factores clave que determinan el costo de venta de automóviles usados con un 80\% de precisión]
 
   ],
   [
-    Jul 2024 – Jul 2024
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[#link("https://github.com/ElliotDM/Proyecto-CGIH02")[Proyecto-CGIH02]]
-
-    #summary[Lideré un proyecto de programación de un ambiente 3D con temática de videojuegos.]
-
-    - C++, OpenGL, Blender, GIMP
-
-  ],
-  [
-    Oct 2023 – Nov 2023
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Compilador-MC68HC11]
-
-    #summary[Lideré un proyecto de programación para diseñar un compilador para el microprocesador MC68HC11.]
-
-    - Python, HTML, Assembly
-
-  ],
-  [
-    Mar 2020 – May 2020
+    Mar 2025 – Jun 2025
 
   ],
 )
