@@ -14,7 +14,7 @@ cv:
       - Ingeniero en Computación recién titulado, con un fuerte interés en la programación, el análisis de datos y las finanzas. Busco integrarme a un equipo dinámico donde pueda aplicar mis conocimientos y aportar valor a través del análisis de datos.
     Habilidades:
       - label: Idiomas
-        details: Inglés B1
+        details: Inglés B2
       - label: Lenguajes
         details: Python (avanzado), SQL (intermedio), VBA (básico)
       - label: Visualización
@@ -35,6 +35,12 @@ cv:
         end_date: 2023-03
         summary: Me desempeñé en los labores de calificar de tareas, elaborar reportes en Excel, manejar cuentas de correo, y asesorar alumnos en temas del curso.
     Proyectos:
+      - name: '[Análisis de razones financieras de la empresa NVIDIA](https://elliotdm.github.io/portfolio/2026-04-09-nvidia/)'
+        summary: Calculé y analicé las principales razones financieras de la empresa NVIDIA durante el periodo 2023-2026 y elabore un dashboard en PowerBI para presentar la información
+        date:
+        start_date: 2026-04
+        end_date: 2026-05
+
       - name: '[Análisis de la tienda ASOS](https://github.com/ElliotDM/asos)'
         summary: Analicé más de 30 mil datos de una tienda de ropa con Python para identificar marcas con poca liquidez
         date:

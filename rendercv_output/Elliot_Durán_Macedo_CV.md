@@ -7,62 +7,75 @@
 - LinkedIn: [elliotdm70](https://linkedin.com/in/elliotdm70)
 
 
-# Resumen Profesional
-Ingeniero en Computación recién titulado, con un fuerte interés en la programación, el análisis de datos y las finanzas. Busco integrarme a un equipo dinámico donde pueda aplicar mis conocimientos y aportar valor a través del análisis de datos.
+# Summary
+I am a recent software engineering graduate with a strong interest in programming, data analysis, and finance. I am looking to join a dynamic team where I can apply my knowledge and add value through data analysis.
 
-# Habilidades
-**Idiomas:** Inglés B1
+# Skills
+**Languages:** English (fluet), Spanish (native)
 
-**Lenguajes:** Python (avanzado), SQL (intermedio), VBA (básico)
+**Programming:** Python (advance), SQL (intermediate), VBA (basic)
 
-**Visualización:** Excel (intermedio), Power BI (básico), Matplotlib, Seaborn
+**Software:** Excel (intermediate), PowerBI (basic)
 
-**Habilidades Blandas:** Comunicación efectiva, Pensamiento crítico, Orientación a resultados, Adaptabilidad estratégica, Autogestión, Mentalidad de aprendizaje continuo
+**Soft skills:** Effective communication, Critical thinking, Results-oriented, Strategic adaptability, Self-management, Continuous learning mindset
 
-# Educación
-## **Universidad Nacional Autónoma de México**, Ingeniería en Computación
+# Education
+## **Universidad Nacional Autónoma de México**, Computer Science
 
-**Lic.**
-
-Ago 2018 – Nov 2024
+**BS**
 
 
-
-# Experiencia
-## **Facultad de Ingeniería**, Ayudante de profesor
-
-Sep 2022 – Mar 2023
-
-Me desempeñé en los labores de calificar de tareas, elaborar reportes en Excel, manejar cuentas de correo, y asesorar alumnos en temas del curso.
+Aug 2018 – Nov 2024
 
 
 
-# Proyectos
-## **[Análisis de la tienda ASOS](https://github.com/ElliotDM/asos)**
+# Experience
+## **Facultad de Ingeniería**, Assistant professor
 
-Mar 2026 – Abr 2026
-
-Analicé más de 30 mil datos de una tienda de ropa con Python para identificar marcas con poca liquidez
+Sept 2022 – Mar 2023
 
 
 
-## **[Análisis de información bancaria](https://github.com/ElliotDM/inf_bancaria)**
+7 months
+
+My responsibilities included grading assignments, creating reports in Excel, managing email accounts, and advising students on course-related matters.
+
+
+
+# Projects
+## **[Analysis of NVIDIAs Financial Ratios](https://elliotdm.github.io/portfolio/2026-04-09-nvidia/)**
+
+Apr 2026 – May 2026
+
+I calculated and analyzed NVIDIA's key financial metrics for the 2023–2026 period and created a dashboard in PowerBI to present the information
+
+
+
+## **[Analysis for the ASOS Store](https://github.com/ElliotDM/asos)**
+
+Mar 2026 – Apr 2026
+
+I conducted a descriptive analysis of a bank's data to help assess credit risk more accurately for new loan applications.
+
+
+
+## **[Analysis of Banking Data](https://github.com/ElliotDM/inf_bancaria)**
 
 Oct 2025 – Nov 2025
 
-Realicé un análisis descriptivo de los datos de cuentas de un banco para determinar el riesgo crediticio de nuevos solicitantes.
+I conducted a descriptive analysis of a bank's account data to assess the credit risk of new applicants
 
 
 
-## **[Predicción del costo de venta de automóviles usados](https://github.com/ElliotDM/autos)**
+## **[Predicting the selling price of used cars](https://github.com/ElliotDM/autos)**
 
-Mar 2025 – Jun 2025
+Mar 2025 – June 2025
 
-Implementé un modelo de machine learning para identificar los factores clave que determinan el costo de venta de automóviles usados con un 80% de precisión
+I implemented a machine learning model to identify the key factors that determine the selling price of used cars with 80% accuracy
 
 
 
-# Certificados
-- Diplomado en Desarrollo de habilidades directivas (2025)
+# Certificates
+- Management Skills Development (2025)
 
 - Applied Data Science with Python (2025)
