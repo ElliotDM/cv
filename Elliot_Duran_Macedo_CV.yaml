@@ -11,14 +11,14 @@ cv:
   website: https://elliotdm.github.io/
   sections:
     Resumen Profesional:
-      - Ingeniero en Computación recién titulado, con un fuerte interés en la programación, el análisis de datos y las finanzas. Busco integrarme a un equipo dinámico donde pueda aplicar mis conocimientos y aportar valor a través del análisis de datos.
+      - Ingeniero en Computación recién titulado, con un fuerte interés en la programación, el análisis de datos y las finanzas. Busco integrarme a un equipo dinámico donde pueda aplicar mis conocimientos y aportar valor a través de la programación. 
     Habilidades:
       - label: Idiomas
         details: Inglés B2
       - label: Lenguajes
         details: Python (avanzado), SQL (intermedio), VBA (básico)
-      - label: Visualización
-        details: Excel (intermedio), Power BI (básico), Matplotlib, Seaborn
+      - label: Herramientas
+        details: Excel, PowerBI, Cisco Packet Tracer, Linux, Git/Github, Docker, Mulesoft
       - label: Habilidades Blandas
         details: Comunicación efectiva, Pensamiento crítico, Orientación a resultados, Adaptabilidad estratégica, Autogestión, Mentalidad de aprendizaje continuo
     Educación:
@@ -36,37 +36,45 @@ cv:
         summary: Me desempeñé en los labores de calificar de tareas, elaborar reportes en Excel, manejar cuentas de correo, y asesorar alumnos en temas del curso.
     Proyectos:
       - name: '[Análisis de razones financieras de la empresa NVIDIA](https://elliotdm.github.io/portfolio/2026-04-09-nvidia/)'
-        summary: Calculé y analicé las principales razones financieras de la empresa NVIDIA durante el periodo 2023-2026 y elabore un dashboard en PowerBI para presentar la información
+        summary: Calculé y analicé las principales razones financieras de la empresa NVIDIA durante el periodo 2023-2026 y elabore un dashboard en PowerBI para presentar la información.
         date:
         start_date: 2026-04
         end_date: 2026-05
 
       - name: '[Análisis de la tienda ASOS](https://github.com/ElliotDM/asos)'
-        summary: Analicé más de 30 mil datos de una tienda de ropa con Python para identificar marcas con poca liquidez
+        summary: Analicé más de 30 mil datos de una tienda de ropa con Python para identificar marcas con poca liquidez.
         date:
         start_date: 2026-03
         end_date: 2026-04
-      
-      - name: '[Análisis de información bancaria](https://github.com/ElliotDM/inf_bancaria)'
-        summary: Realicé un análisis descriptivo de los datos de cuentas de un banco para determinar el riesgo crediticio de nuevos solicitantes.
-        date:
-        start_date: 2025-10
-        end_date: 2025-11
 
-      - name: '[Predicción del costo de venta de automóviles usados](https://github.com/ElliotDM/autos)'
-        summary: Implementé un modelo de machine learning para identificar los factores clave que determinan el costo de venta de automóviles usados con un 80% de precisión
+      - name: Servidor NFS
+        summary: Implementé un servidor NFS en Linux Ubuntu Server utilizando una red de contenedores Docker.
         date:
-        start_date: 2025-03
-        end_date: 2025-06
+        start_date: 2024-06
+        end_date: 2024-07
+
+      - name: Diseño y simulación de una red en Cisco Packet Tracer 
+        summary: Lideré un proyecto de redes para diseñar y simular una red WAN para mantener servidores DHCP, DNS y de correos operando.
+        date:
+        start_date: 2023-10
+        end_date: 2023-11
+        
+      - name: Compilador MC68HC11
+        summary: Lideré un proyecto de programación en Python para diseñar un compilador para el microprocesador MC68HC11.  
+        date:
+        start_date: 2020-03
+        end_date: 2020-05
+
     Certificados:
+      - bullet: English for IT by Cisco (2026)
+      - bullet: Applied Data Science with Python by IBM (2025)
       - bullet: Diplomado en Desarrollo de habilidades directivas (2025)
-      - bullet: Applied Data Science with Python (2025)
 design:
   theme: classic
 locale:
   language: spanish
 settings:
-  current_date: '2026-03-01'
+  current_date: '2026-05-01'
   render_command:
     design:
     locale:

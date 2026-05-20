@@ -6,8 +6,8 @@
   name: "Elliot Durán Macedo",
   title: "Elliot Durán Macedo - CV",
   footer: context { [#emph[Elliot Durán Macedo -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Última actualización May 2026] ],
-  locale-catalog-language: "es",
+  top-note: [ #emph[Last updated in Mar 2026] ],
+  locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
   page-top-margin: 0.7in,
@@ -80,7 +80,7 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 5,
+    month: 3,
     day: 1,
   ),
 )
@@ -88,7 +88,7 @@
 
 = Elliot Durán Macedo
 
-  #headline([Ingeniero en Computación])
+  #headline([Computer Engineer])
 
 #connections(
   [#connection-with-icon("location-dot")[Estado de México, México]],
@@ -99,97 +99,101 @@
 )
 
 
-== Resumen Profesional
+== Summary
 
-Ingeniero en Computación recién titulado, con un fuerte interés en la programación, el análisis de datos y las finanzas. Busco integrarme a un equipo dinámico donde pueda aplicar mis conocimientos y aportar valor a través de la programación.
+I am a recent computer engineering graduate with a strong interest in programming, data analysis, and finance. I am looking to join a dynamic team where I can apply my knowledge and add value through programming.
 
-== Habilidades
+== Skills
 
-#strong[Idiomas:] Inglés B2
+#strong[Languages:] English (fluet), Spanish (native)
 
-#strong[Lenguajes:] Python (avanzado), SQL (intermedio), VBA (básico)
+#strong[Programming:] Python (advance), SQL (intermediate), VBA (basic)
 
-#strong[Herramientas:] Excel, PowerBI, Cisco Packet Tracer, Linux, Git\/Github, Docker, Mulesoft
+#strong[Software:] Excel, PowerBI, Cisco Packet Tracer, Linux, Git\/Github, Docker, Mulesoft
 
-#strong[Habilidades Blandas:] Comunicación efectiva, Pensamiento crítico, Orientación a resultados, Adaptabilidad estratégica, Autogestión, Mentalidad de aprendizaje continuo
+#strong[Soft skills:] Effective communication, Critical thinking, Results-oriented, Strategic adaptability, Self-management, Continuous learning mindset
 
-== Educación
+== Education
 
 #education-entry(
   [
-    #strong[Universidad Nacional Autónoma de México], Ingeniería en Computación
+    #strong[Universidad Nacional Autónoma de México], Computer Science
 
   ],
   [
-    Ago 2018 – Nov 2024
+    Aug 2018 – Nov 2024
 
   ],
   degree-column: [
-    #strong[Lic.]
+    #strong[BS]
   ],
 )
 
-== Experiencia
+== Experience
 
 #regular-entry(
   [
-    #strong[Facultad de Ingeniería], Ayudante de profesor
+    #strong[Facultad de Ingeniería], Assistant professor
 
-    #summary[Me desempeñé en los labores de calificar de tareas, elaborar reportes en Excel, manejar cuentas de correo, y asesorar alumnos en temas del curso.]
-
-  ],
-  [
-    Sep 2022 – Mar 2023
-
-  ],
-)
-
-== Proyectos
-
-#regular-entry(
-  [
-    #strong[#link("https://elliotdm.github.io/portfolio/2026-04-09-nvidia/")[Análisis de razones financieras de la empresa NVIDIA]]
-
-    #summary[Calculé y analicé las principales razones financieras de la empresa NVIDIA durante el periodo 2023-2026 y elabore un dashboard en PowerBI para presentar la información.]
+    #summary[My responsibilities included grading assignments, creating reports in Excel, managing email accounts, and advising students on course-related matters.]
 
   ],
   [
-    Abr 2026 – May 2026
+    Sept 2022 – Mar 2023
+
+    
+
+    7 months
 
   ],
 )
 
+== Projects
+
 #regular-entry(
   [
-    #strong[#link("https://github.com/ElliotDM/asos")[Análisis de la tienda ASOS]]
+    #strong[#link("https://elliotdm.github.io/portfolio/2026-04-09-nvidia/")[Analysis of NVIDIAs Financial Ratios]]
 
-    #summary[Analicé más de 30 mil datos de una tienda de ropa con Python para identificar marcas con poca liquidez.]
+    #summary[I calculated and analyzed NVIDIA's key financial metrics for the 2023–2026 period and created a dashboard in PowerBI to present the information]
 
   ],
   [
-    Mar 2026 – Abr 2026
+    Apr 2026 – May 2026
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Servidor NFS]
+    #strong[#link("https://github.com/ElliotDM/asos")[Analysis for the ASOS Store]]
 
-    #summary[Implementé un servidor NFS en Linux Ubuntu Server utilizando una red de contenedores Docker.]
+    #summary[I conducted a descriptive analysis of a bank's data to help assess credit risk more accurately for new loan applications.]
 
   ],
   [
-    Jun 2024 – Jul 2024
+    Mar 2026 – Apr 2026
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Diseño y simulación de una red en Cisco Packet Tracer]
+    #strong[NFS Server]
 
-    #summary[Lideré un proyecto de redes para diseñar y simular una red WAN para mantener servidores DHCP, DNS y de correos operando.]
+    #summary[I set up an NFS server on Ubuntu Linux Server using a Docker container network.]
+
+  ],
+  [
+    June 2024 – July 2024
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Design and Simulation of a Network in Cisco Packet Tracer]
+
+    #summary[I led a networking project to design and simulate a WAN network to keep DHCP, DNS, and mail servers running.]
 
   ],
   [
@@ -200,9 +204,9 @@ Ingeniero en Computación recién titulado, con un fuerte interés en la program
 
 #regular-entry(
   [
-    #strong[Compilador MC68HC11]
+    #strong[MC68HC11 Compiler]
 
-    #summary[Lideré un proyecto de programación en Python para diseñar un compilador para el microprocesador MC68HC11.]
+    #summary[I led a Python programming project to design a compiler for the MC68HC11 microprocessor.]
 
   ],
   [
@@ -211,10 +215,10 @@ Ingeniero en Computación recién titulado, con un fuerte interés en la program
   ],
 )
 
-== Certificados
+== Certificates
 
 - English for IT by Cisco (2026)
 
-- Applied Data Science with Python by IBM (2025)
+- Applied Data Science with Python (2025)
 
-- Diplomado en Desarrollo de habilidades directivas (2025)
+- Management Skills Development (2025)
