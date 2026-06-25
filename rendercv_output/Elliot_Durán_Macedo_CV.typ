@@ -6,7 +6,7 @@
   name: "Elliot Durán Macedo",
   title: "Elliot Durán Macedo - CV",
   footer: context { [#emph[Elliot Durán Macedo -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Última actualización May 2026] ],
+  top-note: [ #emph[Última actualización Jun 2026] ],
   locale-catalog-language: "es",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,7 +80,7 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 5,
+    month: 6,
     day: 1,
   ),
 )
@@ -91,27 +91,28 @@
   #headline([Ingeniero en Computación])
 
 #connections(
-  [#connection-with-icon("location-dot")[Estado de México, México]],
+  [#connection-with-icon("location-dot")[Cuautitlán, México]],
   [#link("mailto:elliotd70@outlook.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[elliotd70\@outlook.com]]],
   [#link("tel:+52-55-4815-4693", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[55 4815 4693]]],
   [#link("https://linkedin.com/in/elliotdm70", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[elliotdm70]]],
-  [#link("https://elliotdm.github.io/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[elliotdm.github.io]]],
 )
 
 
-== Resumen Profesional
+== Resumen profesional
 
-Ingeniero en Computación recién titulado, con un fuerte interés en la programación, el análisis de datos y las finanzas. Busco integrarme a un equipo dinámico donde pueda aplicar mis conocimientos y aportar valor a través de la programación.
+Ingeniero en computación recien egresado con fuerte interes en la programación, el análisis de datos y las finanzas. Busco integrarme a un equipo dinámico donde pueda aportar valor por medio de la obtención de métricas y KPIs.
 
-== Habilidades
+== Habilidades técnicas
 
-#strong[Idiomas:] Inglés B2
+Análisis de datos, ETL, #strong[Python] avanzado, #strong[SQL] avanzado, VBA básico, C++ básico, JavaScript básico, Java básico, Git, Docker, #strong[Inglés] intermedio B2
 
-#strong[Lenguajes:] Python (avanzado), SQL (intermedio), VBA (básico)
+== Habilidades sociales
 
-#strong[Herramientas:] Excel, PowerBI, Cisco Packet Tracer, Linux, Git\/Github, Docker, Mulesoft
+Responsable, Organizado, Proactivo, Paciente, Resiliente, Comunicador efectivo, Orientado a resultados, Mentalidad de aprendizaje continuo, Liderazgo, Negociación
 
-#strong[Habilidades Blandas:] Comunicación efectiva, Pensamiento crítico, Orientación a resultados, Adaptabilidad estratégica, Autogestión, Mentalidad de aprendizaje continuo
+== Herramientas
+
+#strong[Excel] intermedio, #strong[PowerBI] básico, Looker Studio básico, ORACLE, MySQL, #strong[SQL] Server, Github, Linux, OpenCode, Claude
 
 == Educación
 
@@ -135,7 +136,11 @@ Ingeniero en Computación recién titulado, con un fuerte interés en la program
   [
     #strong[Facultad de Ingeniería], Ayudante de profesor
 
-    #summary[Me desempeñé en los labores de calificar de tareas, elaborar reportes en Excel, manejar cuentas de correo, y asesorar alumnos en temas del curso.]
+    - Elaboré reportes en #strong[Excel] para el control de calificaciones
+
+    - Reduje el total de deserciones en un 50\%
+
+    - Reduje el tiempo destinado a calificar tareas de un mes a una semana por tarea
 
   ],
   [
@@ -148,9 +153,9 @@ Ingeniero en Computación recién titulado, con un fuerte interés en la program
 
 #regular-entry(
   [
-    #strong[#link("https://elliotdm.github.io/portfolio/2026-04-09-nvidia/")[Análisis de razones financieras de la empresa NVIDIA]]
+    #strong[Análisis de razones financieras de la empresa NVIDIA]
 
-    #summary[Calculé y analicé las principales razones financieras de la empresa NVIDIA durante el periodo 2023-2026 y elabore un dashboard en PowerBI para presentar la información.]
+    #summary[Diseñé y ejecute un pipeline ETL en #strong[Python] para extrar información financiera, transformarla para su análisis y visualización en #strong[PowerBI].]
 
   ],
   [
@@ -161,60 +166,47 @@ Ingeniero en Computación recién titulado, con un fuerte interés en la program
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/ElliotDM/asos")[Análisis de la tienda ASOS]]
+    #strong[Análisis de la tienda ASOS]
 
-    #summary[Analicé más de 30 mil datos de una tienda de ropa con Python para identificar marcas con poca liquidez.]
-
-  ],
-  [
-    Mar 2026 – Abr 2026
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Servidor NFS]
-
-    #summary[Implementé un servidor NFS en Linux Ubuntu Server utilizando una red de contenedores Docker.]
+    #summary[Analicé más de #strong[30 mil datos] con #strong[Python] y apliqué un modelo simple de regresión lineal para identificar marcas con poca liquidez.]
 
   ],
   [
-    Jun 2024 – Jul 2024
+    Feb 2026 – Mar 2026
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Diseño y simulación de una red en Cisco Packet Tracer]
+    #strong[Análisis de información bancaria]
 
-    #summary[Lideré un proyecto de redes para diseñar y simular una red WAN para mantener servidores DHCP, DNS y de correos operando.]
+    #summary[Realicé un análsis descriptivo de #strong[4 mil] cuentas bancarias para determinar el riesgo crediticio de los solicitantes a prestamos.]
 
   ],
   [
-    Oct 2023 – Nov 2023
+    Oct 2025 – Nov 2025
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Compilador MC68HC11]
+    #strong[Predicción del costo de venta de autos usados]
 
-    #summary[Lideré un proyecto de programación en Python para diseñar un compilador para el microprocesador MC68HC11.]
+    #summary[Implementé un modelo lineal para identificar los factores clave que determinan el costo de vida de autos usados con un 80\% de precisión.]
 
   ],
   [
-    Mar 2020 – May 2020
+    Mar 2025 – Jun 2025
 
   ],
 )
 
 == Certificados
 
-- English for IT by Cisco (2026)
+- English for IT by Cisco
 
-- Applied Data Science with Python by IBM (2025)
+- Applied Data Science with #strong[Python] by IBM
 
-- Diplomado en Desarrollo de habilidades directivas (2025)
+- Diplomado en Desarrollo de habilidades directivas
