@@ -1,6 +1,7 @@
 Include/
 Lib/
 Scripts/
+.claude/
 
 # Swap
 [._]*.s[a-v][a-z]
@@ -22,3 +23,5 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+AGENTS.md

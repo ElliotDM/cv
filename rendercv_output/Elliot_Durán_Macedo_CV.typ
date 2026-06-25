@@ -100,19 +100,19 @@
 
 == Resumen profesional
 
-Ingeniero en computación recien egresado con fuerte interes en la programación, el análisis de datos y las finanzas. Busco integrarme a un equipo dinámico donde pueda aportar valor por medio de la obtención de métricas y KPIs.
+Ingeniero en computación recién egresado con enfoque en análisis de datos, programación y finanzas. Busco integrarme a un equipo dinámico donde pueda aportar valor mediante la extracción de métricas, análisis de #strong[KPIs] y automatización de procesos basados en datos.
 
-== Habilidades técnicas
+== Habilidades
 
-Análisis de datos, ETL, #strong[Python] avanzado, #strong[SQL] avanzado, VBA básico, C++ básico, JavaScript básico, Java básico, Git, Docker, #strong[Inglés] intermedio B2
+#strong[Lenguajes de programación:] #strong[Python] avanzado, #strong[SQL] avanzado, VBA básico, C++ básico, JavaScript básico, Java básico
 
-== Habilidades sociales
+#strong[Bases de datos:] ORACLE, MySQL, #strong[SQL] Server
 
-Responsable, Organizado, Proactivo, Paciente, Resiliente, Comunicador efectivo, Orientado a resultados, Mentalidad de aprendizaje continuo, Liderazgo, Negociación
+#strong[Herramientas:] #strong[Excel], #strong[PowerBI], Looker Studio, Git, Docker, Linux, #strong[ETL]
 
-== Herramientas
+#strong[Idiomas:] #strong[Inglés] intermedio B2, Español nativo
 
-#strong[Excel] intermedio, #strong[PowerBI] básico, Looker Studio básico, ORACLE, MySQL, #strong[SQL] Server, Github, Linux, OpenCode, Claude
+#strong[Habilidades interpersonales:] Comunicación efectiva, Liderazgo, Proactividad, Resiliencia, Orientación a resultados, Aprendizaje continuo
 
 == Educación
 
@@ -122,6 +122,8 @@ Responsable, Organizado, Proactivo, Paciente, Resiliente, Comunicador efectivo, 
 
   ],
   [
+    Coyoacán, Ciudad de México
+
     Ago 2018 – Nov 2024
 
   ],
@@ -155,7 +157,7 @@ Responsable, Organizado, Proactivo, Paciente, Resiliente, Comunicador efectivo, 
   [
     #strong[Análisis de razones financieras de la empresa NVIDIA]
 
-    #summary[Diseñé y ejecute un pipeline ETL en #strong[Python] para extrar información financiera, transformarla para su análisis y visualización en #strong[PowerBI].]
+    #summary[Diseñé y ejecuté un pipeline #strong[ETL] en #strong[Python] para extraer información financiera, transformarla para su análisis y visualización en #strong[PowerBI].]
 
   ],
   [
@@ -168,7 +170,7 @@ Responsable, Organizado, Proactivo, Paciente, Resiliente, Comunicador efectivo, 
   [
     #strong[Análisis de la tienda ASOS]
 
-    #summary[Analicé más de #strong[30 mil datos] con #strong[Python] y apliqué un modelo simple de regresión lineal para identificar marcas con poca liquidez.]
+    #summary[Analicé más de #strong[30 mil] registros de una tienda retail con #strong[Python] y apliqué un modelo de regresión lineal para identificar productos con baja rotación de inventario.]
 
   ],
   [
@@ -181,7 +183,7 @@ Responsable, Organizado, Proactivo, Paciente, Resiliente, Comunicador efectivo, 
   [
     #strong[Análisis de información bancaria]
 
-    #summary[Realicé un análsis descriptivo de #strong[4 mil] cuentas bancarias para determinar el riesgo crediticio de los solicitantes a prestamos.]
+    #summary[Realicé un análisis descriptivo de #strong[4 mil] cuentas bancarias para determinar el riesgo crediticio de los solicitantes a préstamos.]
 
   ],
   [
@@ -194,7 +196,7 @@ Responsable, Organizado, Proactivo, Paciente, Resiliente, Comunicador efectivo, 
   [
     #strong[Predicción del costo de venta de autos usados]
 
-    #summary[Implementé un modelo lineal para identificar los factores clave que determinan el costo de vida de autos usados con un 80\% de precisión.]
+    #summary[Implementé un modelo de regresión lineal para identificar los factores clave que determinan el precio de venta de autos usados, alcanzando un #strong[80\%] de precisión.]
 
   ],
   [

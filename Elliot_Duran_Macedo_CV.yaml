@@ -10,21 +10,25 @@ cv:
       username: elliotdm70
   sections:
     Resumen profesional:
-      - Ingeniero en computación recién egresado con fuerte interés en la programación, el análisis de datos y las finanzas. Busco integrarme a un equipo dinámico donde pueda aportar valor por medio de la obtención de métricas y KPIs.
+      - Ingeniero en computación recién egresado con enfoque en análisis de datos, programación y finanzas. Busco integrarme a un equipo dinámico donde pueda aportar valor mediante la extracción de métricas, análisis de KPIs y automatización de procesos basados en datos.
 
-    Habilidades técnicas:
-      - Análisis de datos, ETL, Python avanzado, SQL avanzado, VBA básico, C++ básico, JavaScript básico, Java básico, Git, Docker, Inglés intermedio B2
-
-    Habilidades sociales:
-      - Responsable, Organizado, Proactivo, Paciente, Resiliente, Comunicador efectivo, Orientado a resultados, Mentalidad de aprendizaje continuo, Liderazgo, Negociación
-    
-    Herramientas:
-      - Excel intermedio, PowerBI básico, Looker Studio básico, ORACLE, MySQL, SQL Server, GitHub, Linux, OpenCode, Claude 
+    Habilidades:
+      - label: Lenguajes de programación
+        details: Python avanzado, SQL avanzado, VBA básico, C++ básico, JavaScript básico, Java básico
+      - label: Bases de datos
+        details: ORACLE, MySQL, SQL Server
+      - label: Herramientas
+        details: Excel, PowerBI, Looker Studio, Git, Docker, Linux, ETL
+      - label: Idiomas
+        details: Inglés intermedio B2, Español nativo
+      - label: Habilidades interpersonales
+        details: Comunicación efectiva, Liderazgo, Proactividad, Resiliencia, Orientación a resultados, Aprendizaje continuo
 
     Educación:
       - institution: Universidad Nacional Autónoma de México
         area: Ingeniería en Computación
         degree: Lic.
+        location: Coyoacán, Ciudad de México
         start_date: 2018-08
         end_date: 2024-11
 
@@ -40,26 +44,22 @@ cv:
 
     Proyectos:
       - name: Análisis de razones financieras de la empresa NVIDIA
-        summary: Diseñé y ejecute un pipeline ETL en Python para extraer información financiera, transformarla para su análisis y visualización en PowerBI. 
-        date:
+        summary: Diseñé y ejecuté un pipeline ETL en Python para extraer información financiera, transformarla para su análisis y visualización en PowerBI. 
         start_date: 2026-04
         end_date: 2026-05
 
       - name: Análisis de la tienda ASOS
-        summary: Analicé más de **30 mil datos** con Python y apliqué un modelo simple de regresión lineal para identificar marcas con poca liquidez.
-        date:
+        summary: Analicé más de **30 mil** registros de una tienda retail con Python y apliqué un modelo de regresión lineal para identificar productos con baja rotación de inventario.
         start_date: 2026-02
         end_date: 2026-03
 
       - name: Análisis de información bancaria 
-        summary: Realicé un análisis descriptivo de **4 mil** cuentas bancarias para determinar el riesgo crediticio de los solicitantes a prestamos. 
-        date:
+        summary: Realicé un análisis descriptivo de **4 mil** cuentas bancarias para determinar el riesgo crediticio de los solicitantes a préstamos. 
         start_date: 2025-10
         end_date: 2025-11
 
       - name: Predicción del costo de venta de autos usados 
-        summary: Implementé un modelo lineal para identificar los factores clave que determinan el costo de vida de autos usados con un 80% de precisión. 
-        date:
+        summary: Implementé un modelo de regresión lineal para identificar los factores clave que determinan el precio de venta de autos usados, alcanzando un **80%** de precisión.
         start_date: 2025-03
         end_date: 2025-06
 
@@ -88,7 +88,10 @@ settings:
     dont_generate_png: false
   bold_keywords:
     - Python
-    - Excel
-    - PowerBI
     - SQL
+    - PowerBI
+    - Excel
+    - ETL
+    - Dashboard
+    - KPIs
     - Inglés

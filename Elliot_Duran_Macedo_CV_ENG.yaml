@@ -11,21 +11,21 @@ cv:
   website: https://elliotdm.github.io/
   sections:
     Summary:
-      - I am a recent computer engineering graduate with a strong interest in programming, data analysis, and finance. I am looking to join a dynamic team where I can apply my knowledge and add value through programming.
+      - Recent computer engineering graduate with a strong focus on data analysis, programming, and finance. Looking to join a dynamic team where I can contribute through data-driven metrics, KPI analysis, and process automation.
     Skills:
-      - label: Languages
-        details: English (fluet), Spanish (native)
       - label: Programming
-        details: Python (advance), SQL (intermediate), VBA (basic)
-      - label: Software
-        details: Excel, PowerBI, Cisco Packet Tracer, Linux, Git/Github, Docker, Mulesoft
-      - label: Soft skills 
-        details:  Effective communication, Critical thinking, Results-oriented, Strategic adaptability, Self-management, Continuous learning mindset
+        details: Python (advanced), SQL (intermediate), VBA (basic), C++ (basic), JavaScript (basic), Java (basic)
+      - label: Databases
+        details: ORACLE, MySQL, SQL Server
+      - label: Tools
+        details: Excel, PowerBI, Looker Studio, Git, Docker, Linux, ETL
+      - label: Languages
+        details: English (fluent), Spanish (native)
     Education:
       - institution: Universidad Nacional Autónoma de México
         area: Computer Science
         degree: BS
-        date:
+        location: Coyoacán, Mexico City
         start_date: 2018-08
         end_date: 2024-11
     Experience:
@@ -33,48 +33,56 @@ cv:
         position: Assistant professor
         start_date: 2022-09
         end_date: 2023-03
-        summary: My responsibilities included grading assignments, creating reports in Excel, managing email accounts, and advising students on course-related matters.
+        highlights:
+          - Created Excel reports for grade tracking and academic control
+          - Reduced course dropout rates by **50%** through student advising
+          - Cut grading turnaround time from one month to one week per assignment
     Projects:
       - name: '[Analysis of NVIDIAs Financial Ratios](https://elliotdm.github.io/portfolio/2026-04-09-nvidia/)'
-        date:
         start_date: 2026-04
         end_date: 2026-05
-        summary: I calculated and analyzed NVIDIA's key financial metrics for the 2023–2026 period and created a dashboard in PowerBI to present the information
+        summary: Designed and executed an ETL pipeline in Python to extract NVIDIA financial data, transform it for analysis, and visualize key metrics in a PowerBI dashboard.
         
       - name: '[Analysis for the ASOS Store](https://github.com/ElliotDM/asos)'
-        date:
         start_date: 2026-03
         end_date: 2026-04
-        summary: I conducted a descriptive analysis of a bank's data to help assess credit risk more accurately for new loan applications.
+        summary: Analyzed over **30,000** retail records with Python and applied a linear regression model to identify products with low inventory turnover.
+
+      - name: Used Car Price Prediction
+        start_date: 2025-03
+        end_date: 2025-06
+        summary: Implemented a linear regression model to identify key price factors for used cars, achieving **80%** accuracy.
 
       - name: NFS Server
-        date:
         start_date: 2024-06
         end_date: 2024-07
-        summary: I set up an NFS server on Ubuntu Linux Server using a Docker container network.
+        summary: Set up an NFS server on Ubuntu Linux Server using a Docker container network to enable shared storage across multiple clients.
       
       - name: Design and Simulation of a Network in Cisco Packet Tracer
-        date:
         start_date: 2023-10
         end_date: 2023-11
-        summary:  I led a networking project to design and simulate a WAN network to keep DHCP, DNS, and mail servers running.
+        summary: Led a networking project to design and simulate a WAN network with DHCP, DNS, and mail servers.
 
-      - name: MC68HC11 Compiler
-        date:
-        start_date: 2020-03
-        end_date: 2020-05
-        summary: I led a Python programming project to design a compiler for the MC68HC11 microprocessor.
+      - name: '[Banking Data Analysis](https://github.com/ElliotDM)'
+        start_date: 2025-10
+        end_date: 2025-11
+        summary: Conducted a descriptive analysis of **4,000** bank accounts to assess credit risk for loan applicants using Python.
+
+      - name: '[Designing a virtual environment in C++](https://github.com/ElliotDM/Proyecto-CGIH02)' 
+        start_date: 2023-09
+        end_date: 2023-11
+        summary: Led a C++ programming project to design and implement a video game-themed virtual environment using OpenGL.
 
     Certificates:
-      - bullet: English for IT by Cisco (2026) 
-      - bullet: Applied Data Science with Python (2025)
-      - bullet: Management Skills Development (2025)
+      - bullet: English for IT by Cisco  
+      - bullet: Applied Data Science with Python by IBM 
+      - bullet: Management Skills Development 
 design:
   theme: classic
 locale:
   language: english
 settings:
-  current_date: '2026-03-01'
+  current_date: '2026-06-01'
   render_command:
     design:
     locale:
@@ -88,4 +96,11 @@ settings:
     dont_generate_typst: false
     dont_generate_pdf: false
     dont_generate_png: false
-  bold_keywords: []
+  bold_keywords:
+    - Python
+    - SQL
+    - PowerBI
+    - Excel
+    - ETL
+    - Dashboard
+    - KPI

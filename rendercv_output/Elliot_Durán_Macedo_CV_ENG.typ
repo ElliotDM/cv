@@ -204,21 +204,21 @@ I am a recent computer engineering graduate with a strong interest in programmin
 
 #regular-entry(
   [
-    #strong[MC68HC11 Compiler]
+    #strong[#link("https://github.com/ElliotDM/Proyecto-CGIH02")[Designing a virtual environment in C++]]
 
-    #summary[I led a Python programming project to design a compiler for the MC68HC11 microprocessor.]
+    #summary[I led a C++ programming project to design and implement a video game-themed virtual environment using OpenGL.]
 
   ],
   [
-    Mar 2020 – May 2020
+    Sept 2023 – Nov 2023
 
   ],
 )
 
 == Certificates
 
-- English for IT by Cisco (2026)
+- English for IT by Cisco
 
-- Applied Data Science with Python (2025)
+- Applied Data Science with Python
 
-- Management Skills Development (2025)
+- Management Skills Development
