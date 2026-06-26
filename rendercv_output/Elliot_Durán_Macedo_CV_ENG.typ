@@ -6,7 +6,7 @@
   name: "Elliot Durán Macedo",
   title: "Elliot Durán Macedo - CV",
   footer: context { [#emph[Elliot Durán Macedo -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Mar 2026] ],
+  top-note: [ #emph[Last updated in June 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,7 +80,7 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 3,
+    month: 6,
     day: 1,
   ),
 )
@@ -95,32 +95,35 @@
   [#link("mailto:elliotd70@outlook.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[elliotd70\@outlook.com]]],
   [#link("tel:+52-55-4815-4693", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[55 4815 4693]]],
   [#link("https://linkedin.com/in/elliotdm70", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[elliotdm70]]],
-  [#link("https://elliotdm.github.io/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[elliotdm.github.io]]],
 )
 
 
 == Summary
 
-I am a recent computer engineering graduate with a strong interest in programming, data analysis, and finance. I am looking to join a dynamic team where I can apply my knowledge and add value through programming.
+Recent computer engineering graduate with a strong focus on data analysis, programming, and finance. Looking to join a dynamic team where I can contribute through data-driven metrics, #strong[KPI] analysis, and process automation.
 
 == Skills
 
-#strong[Languages:] English (fluet), Spanish (native)
+#strong[Programming:] #strong[Python] (advanced), #strong[SQL] (intermediate), VBA (basic), C++ (basic), JavaScript (basic), Java (basic)
 
-#strong[Programming:] Python (advance), SQL (intermediate), VBA (basic)
+#strong[Databases:] ORACLE, MySQL, #strong[SQL] Server
 
-#strong[Software:] Excel, PowerBI, Cisco Packet Tracer, Linux, Git\/Github, Docker, Mulesoft
+#strong[Tools:] #strong[Excel], #strong[PowerBI], Looker Studio, Git, Docker, Linux, #strong[ETL]
 
-#strong[Soft skills:] Effective communication, Critical thinking, Results-oriented, Strategic adaptability, Self-management, Continuous learning mindset
+#strong[Languages:] English (fluent), Spanish (native)
+
+#strong[Soft skills:] Effective communication, Leadership, Proactivity, Resilience, Results-oriented, Continuous learning
 
 == Education
 
 #education-entry(
   [
-    #strong[Universidad Nacional Autónoma de México], Computer Science
+    #strong[Universidad Nacional Autónoma de México], Computer Engineering
 
   ],
   [
+    Coyoacán, Mexico City
+
     Aug 2018 – Nov 2024
 
   ],
@@ -135,7 +138,11 @@ I am a recent computer engineering graduate with a strong interest in programmin
   [
     #strong[Facultad de Ingeniería], Assistant professor
 
-    #summary[My responsibilities included grading assignments, creating reports in Excel, managing email accounts, and advising students on course-related matters.]
+    - Created #strong[Excel] reports for grade tracking and academic control
+
+    - Reduced course dropout rates by #strong[50\%] through student advising
+
+    - Cut grading turnaround time from one month to one week per assignment
 
   ],
   [
@@ -152,9 +159,9 @@ I am a recent computer engineering graduate with a strong interest in programmin
 
 #regular-entry(
   [
-    #strong[#link("https://elliotdm.github.io/portfolio/2026-04-09-nvidia/")[Analysis of NVIDIAs Financial Ratios]]
+    #strong[Analysis of NVIDIAs Financial Ratios]
 
-    #summary[I calculated and analyzed NVIDIA's key financial metrics for the 2023–2026 period and created a dashboard in PowerBI to present the information]
+    #summary[Designed and executed an #strong[ETL] pipeline in #strong[Python] to extract NVIDIA financial data, transform it for analysis, and visualize key metrics in a #strong[PowerBI] dashboard.]
 
   ],
   [
@@ -165,9 +172,9 @@ I am a recent computer engineering graduate with a strong interest in programmin
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/ElliotDM/asos")[Analysis for the ASOS Store]]
+    #strong[Analysis for the ASOS Store]
 
-    #summary[I conducted a descriptive analysis of a bank's data to help assess credit risk more accurately for new loan applications.]
+    #summary[Analyzed over #strong[30,000] retail records with #strong[Python] and applied a linear regression model to identify products with low inventory turnover.]
 
   ],
   [
@@ -178,47 +185,34 @@ I am a recent computer engineering graduate with a strong interest in programmin
 
 #regular-entry(
   [
-    #strong[NFS Server]
+    #strong[Banking Data Analysis]
 
-    #summary[I set up an NFS server on Ubuntu Linux Server using a Docker container network.]
-
-  ],
-  [
-    June 2024 – July 2024
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Design and Simulation of a Network in Cisco Packet Tracer]
-
-    #summary[I led a networking project to design and simulate a WAN network to keep DHCP, DNS, and mail servers running.]
+    #summary[Conducted a descriptive analysis of #strong[4,000] bank accounts to assess credit risk for loan applicants using #strong[Python].]
 
   ],
   [
-    Oct 2023 – Nov 2023
+    Oct 2025 – Nov 2025
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/ElliotDM/Proyecto-CGIH02")[Designing a virtual environment in C++]]
+    #strong[Used Car Price Prediction]
 
-    #summary[I led a C++ programming project to design and implement a video game-themed virtual environment using OpenGL.]
+    #summary[Implemented a linear regression model to identify key price factors for used cars, achieving #strong[80\%] accuracy.]
 
   ],
   [
-    Sept 2023 – Nov 2023
+    Mar 2025 – June 2025
 
   ],
 )
 
 == Certificates
 
-- English for IT by Cisco
+- English for IT taught by Cisco
 
-- Applied Data Science with Python
+- Applied Data Science with #strong[Python] taught by IBM
 
-- Management Skills Development
+- Management Skills Development taught by Facultad de Ingeniería, UNAM

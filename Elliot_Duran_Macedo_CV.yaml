@@ -64,9 +64,9 @@ cv:
         end_date: 2025-06
 
     Certificados:
-      - bullet: English for IT by Cisco 
-      - bullet: Applied Data Science with Python by IBM 
-      - bullet: Diplomado en Desarrollo de habilidades directivas 
+      - bullet: English for IT impartido por Cisco 
+      - bullet: Applied Data Science with Python impartido por IBM 
+      - bullet: Diplomado en Desarrollo de habilidades directivas impartido por Facultad de Ingeniería, UNAM
 design:
   theme: classic 
 locale:

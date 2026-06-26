@@ -8,7 +8,6 @@ cv:
   social_networks:
     - network: LinkedIn
       username: elliotdm70
-  website: https://elliotdm.github.io/
   sections:
     Summary:
       - Recent computer engineering graduate with a strong focus on data analysis, programming, and finance. Looking to join a dynamic team where I can contribute through data-driven metrics, KPI analysis, and process automation.
@@ -21,9 +20,11 @@ cv:
         details: Excel, PowerBI, Looker Studio, Git, Docker, Linux, ETL
       - label: Languages
         details: English (fluent), Spanish (native)
+      - label: Soft skills
+        details: Effective communication, Leadership, Proactivity, Resilience, Results-oriented, Continuous learning
     Education:
       - institution: Universidad Nacional Autónoma de México
-        area: Computer Science
+        area: Computer Engineering
         degree: BS
         location: Coyoacán, Mexico City
         start_date: 2018-08
@@ -38,51 +39,36 @@ cv:
           - Reduced course dropout rates by **50%** through student advising
           - Cut grading turnaround time from one month to one week per assignment
     Projects:
-      - name: '[Analysis of NVIDIAs Financial Ratios](https://elliotdm.github.io/portfolio/2026-04-09-nvidia/)'
+      - name: Analysis of NVIDIAs Financial Ratios
         start_date: 2026-04
         end_date: 2026-05
         summary: Designed and executed an ETL pipeline in Python to extract NVIDIA financial data, transform it for analysis, and visualize key metrics in a PowerBI dashboard.
         
-      - name: '[Analysis for the ASOS Store](https://github.com/ElliotDM/asos)'
+      - name: Analysis for the ASOS Store
         start_date: 2026-03
         end_date: 2026-04
         summary: Analyzed over **30,000** retail records with Python and applied a linear regression model to identify products with low inventory turnover.
+
+      - name: Banking Data Analysis
+        start_date: 2025-10
+        end_date: 2025-11
+        summary: Conducted a descriptive analysis of **4,000** bank accounts to assess credit risk for loan applicants using Python.
 
       - name: Used Car Price Prediction
         start_date: 2025-03
         end_date: 2025-06
         summary: Implemented a linear regression model to identify key price factors for used cars, achieving **80%** accuracy.
 
-      - name: NFS Server
-        start_date: 2024-06
-        end_date: 2024-07
-        summary: Set up an NFS server on Ubuntu Linux Server using a Docker container network to enable shared storage across multiple clients.
-      
-      - name: Design and Simulation of a Network in Cisco Packet Tracer
-        start_date: 2023-10
-        end_date: 2023-11
-        summary: Led a networking project to design and simulate a WAN network with DHCP, DNS, and mail servers.
-
-      - name: '[Banking Data Analysis](https://github.com/ElliotDM)'
-        start_date: 2025-10
-        end_date: 2025-11
-        summary: Conducted a descriptive analysis of **4,000** bank accounts to assess credit risk for loan applicants using Python.
-
-      - name: '[Designing a virtual environment in C++](https://github.com/ElliotDM/Proyecto-CGIH02)' 
-        start_date: 2023-09
-        end_date: 2023-11
-        summary: Led a C++ programming project to design and implement a video game-themed virtual environment using OpenGL.
-
     Certificates:
-      - bullet: English for IT by Cisco  
-      - bullet: Applied Data Science with Python by IBM 
-      - bullet: Management Skills Development 
+      - bullet: English for IT taught by Cisco  
+      - bullet: Applied Data Science with Python taught by IBM 
+      - bullet: Management Skills Development taught by Facultad de Ingeniería, UNAM
 design:
   theme: classic
 locale:
   language: english
 settings:
-  current_date: '2026-06-01'
+  current_date: 2026-06-01
   render_command:
     design:
     locale:

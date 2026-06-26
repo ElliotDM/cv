@@ -207,8 +207,8 @@ Ingeniero en computación recién egresado con enfoque en análisis de datos, pr
 
 == Certificados
 
-- English for IT by Cisco
+- English for IT impartido por Cisco
 
-- Applied Data Science with #strong[Python] by IBM
+- Applied Data Science with #strong[Python] impartido por IBM
 
-- Diplomado en Desarrollo de habilidades directivas
+- Diplomado en Desarrollo de habilidades directivas impartido por Facultad de Ingeniería, UNAM
