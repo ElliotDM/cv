@@ -94,6 +94,7 @@
   [#connection-with-icon("location-dot")[Cuautitlán, México]],
   [#link("mailto:elliotd70@outlook.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[elliotd70\@outlook.com]]],
   [#link("tel:+52-55-4815-4693", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[55 4815 4693]]],
+  [#link("https://elliotdm.github.io/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[elliotdm.github.io]]],
   [#link("https://linkedin.com/in/elliotdm70", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[elliotdm70]]],
 )
 
